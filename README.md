@@ -22,7 +22,7 @@ Eagle Scout Gold Palm | September 1996
 * [MilSec](https://www.meetup.com/milsec/)
 * [Member WI CCDC Red Team 2017, 2018](https://twitter.com/wiccdcredteam)
 * [ISSA Wisconsin Chapter](https://issa-wisconsin.org/index.htm)
-* [InfoSanity.Org: A mental health initiative in the hacker community.](www.infosanity.org)
+* [InfoSanity: A mental health initiative in the hacker community.](www.infosanity.org)
 
 
 # Summary
@@ -38,7 +38,7 @@ I have over ten years of experience in the Information Security field, with appr
 
 # Experience
 
-## Technical Security Analyst	Confidential		01/2018 – Present
+## Technical Security Analyst	| Confidential | 01/2018 – Present
 
 *	For good Operational Security, I am not publicly disclosing current employer.
 *	Responsible for performing all aspects of penetration testing and technical security assessments on company web and internal applications.
@@ -46,22 +46,22 @@ I have over ten years of experience in the Information Security field, with appr
 *	Described as someone who "you can tell he lives and breathes security"
 *	Responsible for conducting vulnerability scans and for preparing reports to stakeholders throughout company.
 
-## Senior Analyst, Information Security 		Brunswick Corporation			Remote		08/2017 – 12/2017	
+## Senior Analyst, Information Security | Brunswick Corporation | Remote | 08/2017 – 12/2017	
 
 *	Conducted analysis and determinations of potential phishing and virus e-mails, as submitted by employees as part of Brunswick’s PhishFry program.
 *	Ensured the creation of a secure computing environment through the implementation, and enforcement of security standards, procedures, guidelines, and policies. 
 *	Executed penetration tests against network, web, and mobile assets. Leveraged prior and continuing experience using Kali Linux and Metasploit Framework.
 *	Responsible for conducting vulnerability scans and for preparing reports to stakeholders throughout Brunswick Corporation.
 
-## Vulnerability Threat Management and Incident Response	Walgreens Boots Alliance	Deerfield, IL		11/2016 – 08/2017
+## Vulnerability Threat Management and Incident Response | Walgreens Boots Alliance | Deerfield, IL | 11/2016 – 08/2017
 
 *	Responsible for performing all aspects of technical security assessments on various applications to include web, mobile, in house developed and off the shelf. 
 *	Responsible for administering all procedures to ensure the safety of Information Technology assets and to protect administration of security for one or more IT functional areas across the enterprise.
 *	Leveraged prior and continuing experience using Tenable Nessus, and gained new experience with Qualys VM, and Rapid7 Nexpose.
 
-## Audit, Validation, and Testing Team Member	HP NGEN Alliance	Remote		10/2011 – 05/2016
+## Audit, Validation, and Testing Team Member	HP NGEN Alliance | Remote | 10/2011 – 05/2016
 
-* 	Conducted security validation of military networks and the creation of security concept of operations documents.
+* Conducted security validation of military networks and the creation of security concept of operations documents.
 *	Completed key deliverables needed for DIACAP certification, including ACAS Vulnerability Scans, Network Logical Diagrams, Hardware/Software Lists, eEye Retina Vulnerability Scans, and Test Plans
 *	Served as top-level admin to the Application Hosting Facility for NMCI
 *	Researched new issues and new deliverables, and contributed to development of automated tools
