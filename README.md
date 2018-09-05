@@ -22,7 +22,7 @@ Eagle Scout Gold Palm | September 1996
 * [MilSec](https://www.meetup.com/milsec/)
 * [Member WI CCDC Red Team 2017, 2018](https://twitter.com/wiccdcredteam)
 * [ISSA Wisconsin Chapter](https://issa-wisconsin.org/index.htm)
-* [InfoSanity: A mental health initiative in the hacker community.](www.infosanity.org)
+* [InfoSanity.org: A mental health initiative in the hacker community](https://www.infosanity.org)
 
 
 # Summary
@@ -59,7 +59,7 @@ I have over ten years of experience in the Information Security field, with appr
 *	Responsible for administering all procedures to ensure the safety of Information Technology assets and to protect administration of security for one or more IT functional areas across the enterprise.
 *	Leveraged prior and continuing experience using Tenable Nessus, and gained new experience with Qualys VM, and Rapid7 Nexpose.
 
-## Audit, Validation, and Testing Team Member	HP NGEN Alliance | Remote | 10/2011 – 05/2016
+## Audit, Validation, and Testing Team Member | HP NGEN Alliance | Remote | 10/2011 – 05/2016
 
 * Conducted security validation of military networks and the creation of security concept of operations documents.
 *	Completed key deliverables needed for DIACAP certification, including ACAS Vulnerability Scans, Network Logical Diagrams, Hardware/Software Lists, eEye Retina Vulnerability Scans, and Test Plans
