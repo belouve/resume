@@ -31,6 +31,7 @@ I have over ten years of experience in the Information Security field, with appr
 
 # Education
 
+*	Attended SANS504 Training - Sept 2018, pursuing GCIH certification, expected by 2019.
 *	Progressing with my OSCP certification, expected 10/2019
 *	CompTIA Security+ – 08/2010
 *	M.S. Information Systems Security - Colorado Technical University - 12/2007
