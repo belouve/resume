@@ -18,7 +18,7 @@ Eagle Scout Gold Palm | September 1996
 
 # Current Projects
 
-* [DEF CON 414](www.meetup.com/dc414group)
+* [DEF CON 414](https://www.meetup.com/dc414group)
 * [MilSec](https://www.meetup.com/milsec/)
 * [Member WI CCDC Red Team 2017, 2018](https://twitter.com/wiccdcredteam)
 * [ISSA Wisconsin Chapter](https://issa-wisconsin.org/index.htm)
