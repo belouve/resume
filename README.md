@@ -1,6 +1,6 @@
 # Contact Info
 
-Alex (dot) Minster at Gmail (dot) com
+E-mail is on this site, somewhere...
 
 [LinkedIn Profile](https://www.linkedin.com/in/alexminster/)
 
