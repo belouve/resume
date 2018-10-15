@@ -4,8 +4,6 @@ Alex (dot) Minster at Gmail (dot) com
 
 [LinkedIn Profile](https://www.linkedin.com/in/alexminster/)
 
-[Twitter](https://twitter.com/ulicbelouve)
-
 More thorough resume available if directly contacted.
 
 # Career accomplishments, speaking engagements, awards, etc. 
