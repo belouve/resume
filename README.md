@@ -10,7 +10,7 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
-HIPAA Collaborative of Wisconsin 2018 Fall Conference| [Hackers Doing Homework](https://hipaacow.org/wp-content/uploads/2018/08/Oct-2018-Brochure-CLE-Approved.pdf)
+HIPAA Collaborative of Wisconsin 2018 Fall Conference| [Hackers Doing Homework](https://hipaacow.org/wp-content/uploads/2017/07/ST-3-Minster-Handout.pdf)
 DC414 Meetup July 2018 | [Phishing Presentation](https://github.com/belouve/resume/blob/master/DC414%20Phishing%20Prez%202.pptx)
 DC414 DEF CON Groups 2016 Contest | [DG 'Year of the Hack'](https://www.youtube.com/watch?v=pv1ihAEKmlg)
 DC414 DEF CON Groups 2016 Contest | [DC414 'Year of the Hack' Update](https://www.youtube.com/watch?v=eeiOIXAPN1k)
