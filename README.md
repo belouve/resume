@@ -69,3 +69,5 @@ I have over ten years of experience in the Information Security field, with appr
 *	Served as top-level admin to the Application Hosting Facility for NMCI
 *	Researched new issues and new deliverables, and contributed to development of automated tools
 *	Travelled to on-site Navy or Marine Corp sites to conduct eEye Retina Network Vulnerability Scans
+
+## Plenty more experience before 2011, just contact me for those details
