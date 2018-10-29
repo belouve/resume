@@ -58,7 +58,7 @@ I have over ten years of experience in the Information Security field, with appr
 
 ## Vulnerability Threat Management and Incident Response | Walgreens Boots Alliance | Deerfield, IL | 11/2016 – 08/2017
 
-*	Responsible for performing all aspects of technical security assessments on various applications to include web, mobile, in house developed and off the shelf. 
+*	Responsible for performing all aspects of PCI- and HIPAA- compliant technical security assessments on various applications to include web, mobile, in house developed and off the shelf.  Conducted  penetration tests against Walgreens POS systems.
 *	Responsible for administering all procedures to ensure the safety of Information Technology assets and to protect administration of security for one or more IT functional areas across the enterprise.
 *	Leveraged prior and continuing experience using Tenable Nessus, and gained new experience with Qualys VM, and Rapid7 Nexpose.
 
