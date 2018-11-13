@@ -42,9 +42,8 @@ I have over ten years of experience in the Information Security field, with appr
 
 # Experience
 
-## Technical Security Analyst	| Confidential | 01/2018 – Present
+## Technical Security Analyst	| Milliman Intelliscript | Brookfield, WI | 01/2018 – 10/2018
 
-*	For good Operational Security, I am not publicly disclosing current employer.
 *	Responsible for performing all aspects of penetration testing and technical security assessments on company web and internal applications.
 *	Executed network and application vulnerability assessments using scanners. Analyzed results to eliminate false positives. Leveraged prior and continuing experience using Burp Suite Pro, Acunetix, QualysWAS, Rapid7 InsightIDR and Tenable Nessus
 *	Responsible for conducting vulnerability scans and for preparing reports to stakeholders throughout company.
