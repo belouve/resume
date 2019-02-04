@@ -22,6 +22,7 @@ Eagle Scout Gold Palm | September 1996
 
 # Current Projects
 
+* [TraceLabs Crowdsourced OSINT for Missing Persons](https://www.tracelabs.org/about/what-we-do/)
 * [DEF CON 414](https://www.meetup.com/dc414group)
 * [MilSec](https://www.meetup.com/milsec/)
 * [Member WI CCDC Red Team 2017, 2018](https://twitter.com/wiccdcredteam)
@@ -33,10 +34,10 @@ Eagle Scout Gold Palm | September 1996
 
 I have over ten years of experience in the Information Security field, with approximately six of those years as an Auditing, Validation, and Testing Analyst. Recent projects involve thorough OSINT and penetration testing of healthcare systems. I have been described as someone who "you can tell he lives and breathes security". I have spent several additional years in manufacturing, military, banking, medical, and governmental security industries. I also hold a Master degree in Information System Security, and am active with Greater Milwaukee DEFCON [dc414(dot)org] and MilSec.
 
-# Education
+# Education and Certification
 
 *	Acquired [GCIH certification](https://www.youracclaim.com/badges/e6305c41-1b76-4748-b30e-85539023f03b) - January 2019
-*	Attended SANS504 Training - Sept 2018, acquired GCIH certification, expected by 2019.
+*	Attended SANS504 Training - Sept 2018
 *	Progressing with my OSCP certification, expected 10/2019
 *	[CompTIA Security+](https://www.youracclaim.com/badges/c5b9799d-cd91-49c1-a237-b4319aab429a) – 08/2010
 *	M.S. Information Systems Security - Colorado Technical University - 12/2007
