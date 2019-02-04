@@ -10,7 +10,8 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
-HIPAA Collaborative of Wisconsin 2018 Fall Conference| [Hackers Doing Homework](https://hipaacow.org/wp-content/uploads/2017/07/ST-3-Minster-Handout.pdf)
+TraceLabs Global OSINT for Missing Persons - Feb 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/global-ctf-q12019/)
+HIPAA Collaborative of Wisconsin 2018 Fall Conference| [Hackers Doing Homework](https://github.com/belouve/resume/blob/master/Minster%20-%20Hackers%20Doing%20Homework.pptx)
 DC414 Meetup July 2018 | [Phishing Presentation](https://github.com/belouve/resume/blob/master/DC414%20Phishing%20Prez%202.pptx)
 DC414 DEF CON Groups 2016 Contest | [DG 'Year of the Hack'](https://www.youtube.com/watch?v=pv1ihAEKmlg)
 DC414 DEF CON Groups 2016 Contest | [DC414 'Year of the Hack' Update](https://www.youtube.com/watch?v=eeiOIXAPN1k)
@@ -34,13 +35,18 @@ I have over ten years of experience in the Information Security field, with appr
 
 # Education
 
-*	Attended SANS504 Training - Sept 2018, pursuing GCIH certification, expected by 2019.
+*	Acquired [GCIH certification](https://www.youracclaim.com/badges/e6305c41-1b76-4748-b30e-85539023f03b) - January 2019
+*	Attended SANS504 Training - Sept 2018, acquired GCIH certification, expected by 2019.
 *	Progressing with my OSCP certification, expected 10/2019
-*	CompTIA Security+ – 08/2010
+*	[CompTIA Security+](https://www.youracclaim.com/badges/c5b9799d-cd91-49c1-a237-b4319aab429a) – 08/2010
 *	M.S. Information Systems Security - Colorado Technical University - 12/2007
 *	B.S. Political Science - University of Wisconsin-Milwaukee – 12/2003
 
 # Experience
+
+## Global Product Security Vulnerability Mangement Tech Lead	| Confidential | Milwaukee, WI | 12/2018 – Current
+
+*	Responsible for Vulnerability Management...not a lot more details will be shared at this time.
 
 ## Technical Security Analyst	| Milliman Intelliscript | Brookfield, WI | 01/2018 – 10/2018
 
