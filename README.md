@@ -10,7 +10,8 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
-TraceLabs Global OSINT for Missing Persons - Feb 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/global-ctf-q12019/)
+TraceLabs OSINT for Missing Persons - BSides Vancouver - JUDGE - March 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/bsides-vancouver-2019/)
+TraceLabs Global OSINT for Missing Persons - PARTICIPANT - Feb 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/global-ctf-q12019/)
 HIPAA Collaborative of Wisconsin 2018 Fall Conference| [Hackers Doing Homework](https://github.com/belouve/resume/blob/master/Minster%20-%20Hackers%20Doing%20Homework.pptx)
 DC414 Meetup July 2018 | [Phishing Presentation](https://github.com/belouve/resume/blob/master/DC414%20Phishing%20Prez%202.pptx)
 DC414 DEF CON Groups 2016 Contest | [DG 'Year of the Hack'](https://www.youtube.com/watch?v=pv1ihAEKmlg)
@@ -23,16 +24,17 @@ Eagle Scout Gold Palm | September 1996
 # Current Projects
 
 * [TraceLabs Crowdsourced OSINT for Missing Persons](https://www.tracelabs.org/about/what-we-do/)
+* [Practical OSINT for Everyday Social Engineers - Attending Training at Derbycon, Sept 2019](https://www.derbycon.com/training-courses/)
 * [DEF CON 414](https://www.meetup.com/dc414group)
-* [MilSec](https://www.meetup.com/milsec/)
-* [Member WI CCDC Red Team 2017, 2018](https://twitter.com/wiccdcredteam)
 * [ISSA Wisconsin Chapter](https://issa-wisconsin.org/index.htm)
 * [InfoSanity.org: A mental health initiative in the hacker community](https://www.infosanity.org)
+* [MilSec](https://www.meetup.com/milsec/)
+* [Member WI CCDC Red Team 2017, 2018](https://twitter.com/wiccdcredteam)
 
 
 # Summary
 
-I have over ten years of experience in the Information Security field, with approximately six of those years as an Auditing, Validation, and Testing Analyst. Recent projects involve thorough OSINT and penetration testing of healthcare systems. I have been described as someone who "you can tell he lives and breathes security". I have spent several additional years in manufacturing, military, banking, medical, and governmental security industries. I also hold a Master degree in Information System Security, and am active with Greater Milwaukee DEFCON [dc414(dot)org] and MilSec.
+I have over twelve years of experience in the Information Security field, with approximately six of those years as an Auditing, Validation, and Testing Analyst. Recent projects involve thorough OSINT and penetration testing of healthcare systems. I have been described as someone who "you can tell he lives and breathes security". I have spent several additional years in manufacturing, military, banking, medical, and governmental security industries. I also hold a Master degree in Information System Security, and am active with Greater Milwaukee DEFCON [dc414(dot)org] and MilSec.
 
 # Education and Certification
 
@@ -47,7 +49,10 @@ I have over ten years of experience in the Information Security field, with appr
 
 ## Global Product Security Vulnerability Mangement Tech Lead	| Confidential | Milwaukee, WI | 12/2018 – Current
 
-*	Responsible for Vulnerability Management...not a lot more details will be shared at this time.
+*	Designed, implemented and managed software vulnerability analysis and remediation capabilities. Proactively managed risk across the product lifecycle.
+*	Interacted with various security architects and security champions from all lines of business within Johnson Controls products.
+*	Achieved GIAC Certified Incident Handler (GCIH) and served as a secondary incident response for Product Security incidents impacting any Johnson Controls Product or customer.  Would take primary lead on incident handling when appropriate.
+*	Interacted with MITRE to serve as liaison to them for Johnson Controls' role as a CVE Numbering Authority (CNA). Responsible for critical input and guidance to the creation of Johnson Controls CVEs, and is part of MITRE's CNA CVE working group.
 
 ## Technical Security Analyst	| Milliman Intelliscript | Brookfield, WI | 01/2018 – 10/2018
 
