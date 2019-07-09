@@ -10,6 +10,7 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
+TraceLabs Global OSINT for Missing Persons - PARTICIPANT - July 2019 | [OSINT For Missing Persons (Video)](https://www.youtube.com/watch?v=2puBmXfi9Z0)
 TraceLabs OSINT for Missing Persons - BSides Vancouver - JUDGE - March 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/bsides-vancouver-2019/)
 TraceLabs Global OSINT for Missing Persons - PARTICIPANT - Feb 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/global-ctf-q12019/)
 HIPAA Collaborative of Wisconsin 2018 Fall Conference| [Hackers Doing Homework](https://github.com/belouve/resume/blob/master/Minster%20-%20Hackers%20Doing%20Homework.pptx)
@@ -24,6 +25,7 @@ Eagle Scout Gold Palm | September 1996
 # Current Projects
 
 * [TraceLabs Crowdsourced OSINT for Missing Persons](https://www.tracelabs.org/about/what-we-do/)
+* [TraceLabs Crowdsourced OSINT for Missing Persons (Video)](https://www.youtube.com/watch?v=2puBmXfi9Z0)
 * [Practical OSINT for Everyday Social Engineers - Attending Training at Derbycon, Sept 2019](https://www.derbycon.com/training-courses/)
 * [DEF CON 414](https://www.meetup.com/dc414group)
 * [ISSA Wisconsin Chapter](https://issa-wisconsin.org/index.htm)
@@ -47,7 +49,7 @@ I have over twelve years of experience in the Information Security field, with a
 
 # Experience
 
-## Global Product Security Vulnerability Mangement Tech Lead	| Confidential | Milwaukee, WI | 12/2018 – Current
+## Global Product Security Vulnerability Mangement Tech Lead	| Johnson Controls | Milwaukee, WI | 12/2018 – Current
 
 *	Designed, implemented and managed software vulnerability analysis and remediation capabilities. Proactively managed risk across the product lifecycle.
 *	Interacted with various security architects and security champions from all lines of business within Johnson Controls products.
