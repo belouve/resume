@@ -26,7 +26,7 @@ Eagle Scout Gold Palm | September 1996
 
 * [TraceLabs Crowdsourced OSINT for Missing Persons](https://www.tracelabs.org/about/what-we-do/)
 * [TraceLabs Crowdsourced OSINT for Missing Persons (Video)](https://www.youtube.com/watch?v=2puBmXfi9Z0)
-* [Practical OSINT for Everyday Social Engineers - Attending Training at Derbycon, Sept 2019](https://www.derbycon.com/training-courses/)
+
 * [DEF CON 414](https://www.meetup.com/dc414group)
 * [ISSA Wisconsin Chapter](https://issa-wisconsin.org/index.htm)
 * [InfoSanity.org: A mental health initiative in the hacker community](https://www.infosanity.org)
@@ -40,6 +40,7 @@ I have over twelve years of experience in the Information Security field, with a
 
 # Education and Certification
 
+* Gained certification for [Practical OSINT for Everyday Social Engineers](https://www.derbycon.com/training-courses/) - September 2019
 *	Acquired [GCIH certification](https://www.youracclaim.com/badges/e6305c41-1b76-4748-b30e-85539023f03b) - January 2019
 *	Attended SANS504 Training - Sept 2018
 *	Progressing with my OSCP certification, expected 10/2019
@@ -49,7 +50,7 @@ I have over twelve years of experience in the Information Security field, with a
 
 # Experience
 
-## Global Product Security Vulnerability Mangement Tech Lead	| Johnson Controls | Milwaukee, WI | 12/2018 – Current
+## Global Product Security Vulnerability Mangement Tech Lead	| Johnson Controls | Milwaukee, WI | 12/2018 – 7/2019
 
 *	Designed, implemented and managed software vulnerability analysis and remediation capabilities. Proactively managed risk across the product lifecycle.
 *	Interacted with various security architects and security champions from all lines of business within Johnson Controls products.
