@@ -10,7 +10,7 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
-TraceLabs Global OSINT for Missing Persons - JUDGE - July 2019 | [OSINT For Missing Persons (Video)](https://www.youtube.com/watch?v=2puBmXfi9Z0)
+TraceLabs Global OSINT for Missing Persons - SENIOR JUDGE (Over 6 times) - March 2019 - Current | [OSINT For Missing Persons (Video)](https://www.youtube.com/watch?v=2puBmXfi9Z0)
 TraceLabs OSINT for Missing Persons - BSides Vancouver - JUDGE - March 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/bsides-vancouver-2019/)
 TraceLabs Global OSINT for Missing Persons - PARTICIPANT - Feb 2019 | [OSINT For Missing Persons](https://www.tracelabs.org/event/global-ctf-q12019/)
 HIPAA Collaborative of Wisconsin 2018 Fall Conference| [Hackers Doing Homework](https://github.com/belouve/resume/blob/master/Minster%20-%20Hackers%20Doing%20Homework.pptx)
