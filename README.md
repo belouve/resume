@@ -6,7 +6,7 @@ E-mail is on this site, somewhere...
 
 More thorough resume available if directly contacted.
 
-# Career accomplishments, speaking engagements, awards, etc. 
+# Career accomplishments, speaking engagements, awards, etc.  This is where samples of my presentations can be found. 
 
 Event | Description
 ------|------------
@@ -40,6 +40,7 @@ I have over twelve years of experience in the Information Security field, with a
 
 # Education and Certification
 
+* Completed trainng and certification for [Active Defense and Cyber Deception](https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/) - April 2020
 * Gained certification for [Practical OSINT for Everyday Social Engineers](https://www.derbycon.com/training-courses/) - September 2019
 *	Acquired [GCIH certification](https://www.youracclaim.com/badges/e6305c41-1b76-4748-b30e-85539023f03b) - January 2019
 *	Attended SANS504 Training - Sept 2018
