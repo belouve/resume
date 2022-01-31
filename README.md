@@ -10,6 +10,7 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
+BHIS Talkin' Bout [infosec] News 1-31-2022 | [YouTube](https://www.youtube.com/watch?v=ItwEaC92PUc&t=2040s)
 Wisconsin Technology Association - Human Side of Security - April 2021 | [Event Page](https://wtawi.org/events/the-human-side-of-security/?)
 Wisconsin Technology Association - Human Side of Security - April 2021 | [Video](https://www.youtube.com/watch?v=y3KmNY1Rloo)
 TraceLabs Global OSINT for Missing Persons - SENIOR JUDGE (Over 6 times) - March 2019 - Current | [OSINT For Missing Persons (Video)](https://www.youtube.com/watch?v=2puBmXfi9Z0)
