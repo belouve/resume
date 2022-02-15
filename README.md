@@ -27,10 +27,10 @@ Eagle Scout Gold Palm | September 1996
 
 # Current Projects
 
+* [Blue Team Labs Online](https://blueteamlabs.online/home/user/93a919bf39bbba06540c5e#)
 * [TraceLabs Crowdsourced OSINT for Missing Persons](https://www.tracelabs.org/about/what-we-do/)
 * [TraceLabs Crowdsourced OSINT for Missing Persons (Video)](https://www.youtube.com/watch?v=2puBmXfi9Z0)
 
-* [DEF CON 414](https://www.meetup.com/dc414group)
 * [ISSA Wisconsin Chapter](https://issa-wisconsin.org/index.htm)
 * [InfoSanity.org: A mental health initiative in the hacker community](https://www.infosanity.org)
 * [MilSec](https://www.meetup.com/milsec/)
@@ -39,20 +39,36 @@ Eagle Scout Gold Palm | September 1996
 
 # Summary
 
-I have over twelve years of experience in the Information Security field, with approximately six of those years as an Auditing, Validation, and Testing Analyst. Recent projects involve thorough OSINT and penetration testing of healthcare systems. I have been described as someone who "you can tell he lives and breathes security". I have spent several additional years in manufacturing, military, banking, medical, and governmental security industries. I also hold a Master degree in Information System Security, and am active with Greater Milwaukee DEFCON [dc414(dot)org] and MilSec.
+I have over thirteen years of experience in the Information Security field, with approximately six of those years as an Auditing, Validation, and Testing Analyst. Recent projects involve thorough OSINT and penetration testing of healthcare systems. I have been described as someone who "you can tell he lives and breathes security". I have spent several additional years in financial, manufacturing, military, banking, medical, and governmental security industries. I also hold a Master degree in Information System Security.
 
 # Education and Certification
 
-* Completed trainng and certification for [Active Defense and Cyber Deception](https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/) - April 2020
+
+* Completed training and certification for [Red Team: Gaining Access](https://www.antisyphontraining.com/red-team-getting-access-w-michael-allen/) - Sept 2021
+* Completed training and certification for [Active Defense and Cyber Deception](https://www.blackhillsinfosec.com/training/active-defense-cyber-deception-training/) - April 2020
 * Gained certification for [Practical OSINT for Everyday Social Engineers](https://www.derbycon.com/training-courses/) - September 2019
 *	Acquired [GCIH certification](https://www.youracclaim.com/badges/e6305c41-1b76-4748-b30e-85539023f03b) - January 2019
 *	Attended SANS504 Training - Sept 2018
-*	Progressing with my OSCP certification, expected 10/2019
+*	Progressing with my OSCP certification
 *	[CompTIA Security+](https://www.youracclaim.com/badges/c5b9799d-cd91-49c1-a237-b4319aab429a) – 08/2010
 *	M.S. Information Systems Security - Colorado Technical University - 12/2007
 *	B.S. Political Science - University of Wisconsin-Milwaukee – 12/2003
 
 # Experience
+
+## Senior Security Analyst	| Confidential Financial | Brookfield, WI | 11/2021 – Current
+
+*	Provided support and insight to defensive stance of organization. 
+*	Worked within several tools that monitored connections and application allowlisting. 
+*	Leveraging and tuning security stack to respond to incidents. 
+*	Oversaw penetration testers and vulnerability management.
+
+## Community Manager, Committee Lead, and Core Team	| TraceLabs | Remote | 7/2019 – Current
+
+*	Coordinated information security professionals to use open source intelligence techniques to help locate missing persons. 
+*	Presented techniques and guidance to a global audience monthly. 
+*	Verified incoming intelligence for missing persons cases. 
+*	Created and delivered digestible reports to law enforcement contacts.
 
 ## Global Product Security Vulnerability Mangement Tech Lead	| Johnson Controls | Milwaukee, WI | 12/2018 – 7/2019
 
