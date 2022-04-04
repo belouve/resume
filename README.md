@@ -10,7 +10,9 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
-Sunflower Con - 5 March 2022 | [SunflowerCon](https://www.sunflowercon.org/)
+Sunflowercon - Panelist | [YouTube Video](https://www.youtube.com/watch?v=x8w1JNee-W0&t=15060s)
+SunflowerCon - OSINT Presentation | [YouTube Video](https://www.youtube.com/watch?v=x8w1JNee-W0&t=7800s)
+Sunflower Con - 5 March 2022 | [SunflowerCon Event Page](https://www.sunflowercon.org/)
 BHIS Talkin' Bout [infosec] News 1-31-2022 | [YouTube](https://www.youtube.com/watch?v=ItwEaC92PUc&t=2040s)
 Wisconsin Technology Association - Human Side of Security - April 2021 | [Event Page](https://wtawi.org/events/the-human-side-of-security/?)
 Wisconsin Technology Association - Human Side of Security - April 2021 | [Video](https://www.youtube.com/watch?v=y3KmNY1Rloo)
