@@ -10,6 +10,7 @@ More thorough resume available if directly contacted.
 
 Event | Description
 ------|------------
+44con - OSINT Workshop and CTF | [44con OSINT CTF](https://44con.com/2022/09/09/trace-labs-search-party-ctf/)
 Sunflowercon - Panelist | [YouTube Video](https://www.youtube.com/watch?v=x8w1JNee-W0&t=15060s)
 SunflowerCon - OSINT Presentation | [YouTube Video](https://www.youtube.com/watch?v=x8w1JNee-W0&t=7800s)
 Sunflower Con - 5 March 2022 | [SunflowerCon Event Page](https://www.sunflowercon.org/)
@@ -66,12 +67,13 @@ I have over thirteen years of experience in the Information Security field, with
 *	Leveraging and tuning security stack to respond to incidents. 
 *	Oversaw penetration testers and vulnerability management.
 
-## Community Manager, Committee Lead, and Core Team	| TraceLabs | Remote | 7/2019 – Current
+## Director Core Team	| TraceLabs | Remote | 7/2019 – Current
 
 *	Coordinated information security professionals to use open source intelligence techniques to help locate missing persons. 
 *	Presented techniques and guidance to a global audience monthly. 
 *	Verified incoming intelligence for missing persons cases. 
 *	Created and delivered digestible reports to law enforcement contacts.
+*	Advanced from Judge Committee Lead, to Community Manager, to Director.
 
 ## Global Product Security Vulnerability Mangement Tech Lead	| Johnson Controls | Milwaukee, WI | 12/2018 – 7/2019
 
