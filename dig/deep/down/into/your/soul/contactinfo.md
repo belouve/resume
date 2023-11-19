@@ -3,12 +3,12 @@ Method | Info
 ------|------------
 Keybase | Belouve
 Twitter | [@belouve](https://twitter.com/UlicBelouve)
-Signal | 920 two54 nineteen73
-email| alex [dot] minster [at] gmail [dawt] com
-email | ulic [dot] belouve [at] gmail [dawt] com
-email | belouve [at] protonmail [dawt] com
-email | angeldaemon [at] protonmail [dawt] com
-IRC | #dc414 on Freenode
+Signal | 920 4fiveNEIN ateate64
+email| alex [dot] wizard [at] gmail [dawt] com
+email | emerald [dot] belouve [at] gmail [dawt] com
+email | bowling [at] protonmail [dawt] com
+email | takeflight [at] protonmail [dawt] com
+IRC | #dc608 on Freenode
 [NetSec Focus](https://mm.netsecfocus.com/nsf/channels/general) | @belouve
 [LinkedIn](https://linkedin.com/in/alexminster/) | Alex Minster
 
